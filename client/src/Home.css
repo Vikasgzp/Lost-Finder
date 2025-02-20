@@ -1,0 +1,131 @@
+/* body {
+    background: url('./assets/images/spenser-sembrat-mTVgEaf9klQ-unsplash.jpg') no-repeat center center fixed; /* Use relative path 
+    background-size: cover;
+    margin: 0; /* Ensure there's no default margin 
+*/
+
+/* .main-container {
+    body {
+    background: url('./assets/images/spenser-sembrat-mTVgEaf9klQ-unsplash.jpg') no-repeat center center fixed; /* Use relative path 
+    background-size: cover;
+    margin: 0; /* Ensure there's no default margin 
+} */
+
+.main-container {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.action-btn {
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 40px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    width: 200px;
+    height: 100px;
+}
+
+.btn-lost {
+    background-color: #ff6b6b;
+    color: white;
+}
+
+.btn-found {
+    background-color: #4ecdc4;
+    color: white;
+}
+
+.action-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.modal-content {
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.modal-header {
+    border-bottom: none;
+    padding: 1.5rem;
+}
+
+.modal-title {
+    font-weight: 700;
+    color: #2d3436;
+}
+
+.modal-body {
+    padding: 1.5rem;
+}
+
+.form-control, .form-select {
+    border-radius: 10px;
+    padding: 0.75rem 1rem;
+}
+
+.form-label {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #636e72;
+}
+
+
+/* Signup and login page css */
+/* Auth Pages */
+.auth-container {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.auth-btn {
+    padding: 0.75rem;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.auth-btn:hover {
+    transform: translateY(-2px);
+}
+
+.auth-link {
+    border-radius: 50px;
+    padding: 0.75rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.auth-link:hover {
+    transform: translateY(-2px);
+    text-decoration: none;
+}
+
+.form-control {
+    border-radius: 10px;
+    padding: 0.75rem 1rem;
+    margin-top: 0.5rem;
+}
+
+label {
+    font-weight: 600;
+    color: #636e72;
+}
+
+.auth-footer {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+}
