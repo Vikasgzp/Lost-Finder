@@ -1,6 +1,6 @@
 # Lost Finder - AI-Powered Lost & Found Platform  
 
-FindIt is a reliable platform designed to help users locate lost items, important documents, and even missing persons. With an easy-to-use interface, it connects you to receiver communities, services, and resources to ensure that your valuables or loved ones are found quickly and safely.  
+Lost Finder is a reliable platform designed to help users locate lost items, important documents, and even missing persons. With an easy-to-use interface, it connects you to receiver, services, and resources to ensure that your valuables or loved ones are found quickly and safely.  
 
 ## 🌟 Features  
 - **AI-Powered Matching** – Smart analysis of descriptions, images, and locations.  
